@@ -1,6 +1,6 @@
 
 
- Exploit Title: Joplin 1.2.6 Cross Site Scripting
+ Exploit Title: Joplin 1.2.6 Cross Site Scripting <br>
  Date: 2020-09-21
  Exploit Author: Philip Holbrook (@fhlipZero)
  Vendor Homepage: https://joplinapp.org/
