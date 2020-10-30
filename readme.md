@@ -20,7 +20,6 @@
 <link rel=import href="data:text/html&comma;&lt;script&gt;alert(XSS)&lt;&sol;script&gt; 
 <script src="//brlogic.com.br&sol;1.js&num; </script>
 
+<img src="./60b6772ab455487b92268ad45a6dd677.png" width="300">
 
-![Screen Shot 2020-10-27 at 4.42.34 PM.png = 200x](./60b6772ab455487b92268ad45a6dd677.png)
-
-<img src="./7f76fb066b9d4e3bad4c4b59538140e4.png" width="100">
+<img src="./7f76fb066b9d4e3bad4c4b59538140e4.png" width="300">
