@@ -1,15 +1,15 @@
 
 
  Exploit Title: Joplin 1.2.6 Cross Site Scripting <br>
- Date: 2020-09-21
- Exploit Author: Philip Holbrook (@fhlipZero)
- Vendor Homepage: https://joplinapp.org/
- Software Link: https://github.com/laurent22/joplin/releases/tag/v1.2.6
- Version: 1.2.6
- Tested on: Windows / Mac
- CVE : PENDING
- References:
- PENDING next release
+ Date: 2020-10-27 <br>
+ Exploit Author: Philip Holbrook (@fhlipZero) <br>
+ Vendor Homepage: https://joplinapp.org/ <br>
+ Software Link: https://github.com/laurent22/joplin/releases/tag/v1.2.6  <br>
+ Version: 1.2.6  <br>
+ Tested on: Windows / Mac  <br>
+ CVE : PENDING  <br>
+ References:  <br>
+ PENDING next release <br>
 
  1. Technical Details
  An XSS issue in Joplin for desktop v1.2.6 allows a link tag in a note to bypass the HTML filter
