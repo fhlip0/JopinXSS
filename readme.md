@@ -23,5 +23,7 @@
 
 ![Screen Shot 2020-10-27 at 4.42.34 PM.png = 200x](./60b6772ab455487b92268ad45a6dd677.png)
 
-![Screen Shot 2020-10-27 at 4.42.51 PM.png = 150x](./7f76fb066b9d4e3bad4c4b59538140e4.png)
+![1](./7f76fb066b9d4e3bad4c4b59538140e4.png = 250x)
 
+[[http://url.to/image.png = 250x]]
+![image](http://url.to/image.png = 250x)
