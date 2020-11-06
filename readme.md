@@ -7,7 +7,7 @@
  Software Link: https://github.com/laurent22/joplin/releases/tag/v1.2.6  <br>
  Version: 1.2.6  <br>
  Tested on: Windows / Mac  <br>
- CVE : PENDING  <br>
+ CVE : CVE-2020-28249  <br>
  References:  <br>
  PENDING next release <br>
 
